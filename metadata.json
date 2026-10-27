@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix E-Jurnal Kinerja Guru",
+  "description": "Aplikasi pembuat laporan harian kinerja guru dan pegawai dinas dengan format kedinasan resmi, stempel timestamp foto bukti otomatis, dan ekspor PDF ukuran A4/F4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
